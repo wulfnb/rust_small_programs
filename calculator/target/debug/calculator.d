@@ -1,0 +1,1 @@
+/home/wolverine/Documents/git_codes/rust_small_programs/calculator/target/debug/calculator: /home/wolverine/Documents/git_codes/rust_small_programs/calculator/src/main.rs /home/wolverine/Documents/git_codes/rust_small_programs/calculator/src/my_calculator.rs
